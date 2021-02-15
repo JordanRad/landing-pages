@@ -16,25 +16,26 @@ body {
 nav {
     display: grid;
     grid-template-columns: 50% 2% 48%;
-    grid-template-rows: 90px;
+    grid-template-rows: 80px;
     margin-bottom: 10px;
     align-items: center;
     border-bottom: 1px solid color(darkerColor);
 
     #logo {
         grid-column: 1;
-        font-size: 3em;
+        font-size: 2.5em;
     }
 
     #btnGroup {
         grid-column: 3;
+        grid-row:1/3 ;
         margin-left: auto;
         margin-right: 20px;
     }
 
     button {
-        width: 130px;
-        height: 40px;
+        width: 112px;
+        height: 32px;
         font-size: 1em;
         text-transform: uppercase;
         background-color: color(colorRed);
@@ -49,28 +50,37 @@ nav {
     }
 
     a {
-        margin-left: 22px;
-        font-size: .8em;
+        margin-left: 12px;
+        font-size: .7em;
         color: color(lightColor);
     }
 
     a:hover {
         color: color(colorRed);
     }
-    @media screen and(max-width:756px) {
-        grid-template-columns: 50% 2% 48%;
-        grid-template-rows: 90px;
+    @media screen and(max-width:606px) {
+        grid-template-columns: 54% 2% 44%;
+        grid-template-rows: 40px 40px;
         #logo {
-            font-size: 2.6em;
+            font-size: 2.1em;
+            grid-row: 1/3;
         }
+        #btnGroup {
+           margin: 0;
+           text-align: center;
+           padding: 12px;
+        }
+    
         button {
-            width: 110px;
-            height: 35px;
+            width: 100%;
+            height: 28px;
             font-size: .9em;
         }
     
         a { 
-            font-size: .7em;
+            
+            margin-top: 12px;
+            font-size: .5em;
         }
     
     }
