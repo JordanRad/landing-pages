@@ -1,9 +1,9 @@
 # Landing Pages Project
 
-### **Info**:
+# **Info**:
 Landing pages projects is a summary of different landing pages created only with **HTML 5, SASS and JavaScript**
 
-### Set up the project locally
+# Set up the project locally
 1. Open the folder with the project with both front-end and api folders:
 ```
 cd landing-pages
@@ -13,3 +13,9 @@ cd landing-pages
 npm install
 ```
 3. Find and open **index.html** file
+
+# Pages
+
+## About Me
+Short about me describing page:
+- Fully responsive
