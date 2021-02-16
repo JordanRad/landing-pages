@@ -17,5 +17,12 @@ npm install
 # Pages
 
 ## About Me
-Short about me describing page:
-- Fully responsive
+Short about me describing on a landing page: 
+
+![About me](https://github.com/JordanRad/landing-pages/blob/main/ReadMe-About.png?raw=true)
+
+## Pay Per View
+Film sections in pay per view site model landing page:
+
+![About me](https://github.com/JordanRad/landing-pages/blob/main/ReadMe-PPV.png?raw=true)
+
