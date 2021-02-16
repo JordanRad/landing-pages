@@ -24,5 +24,10 @@ Short about me describing on a landing page:
 ## Pay Per View
 Film sections in pay per view site model landing page:
 
-![About me](https://github.com/JordanRad/landing-pages/blob/main/ReadMe-PPV.png?raw=true)
+![Pay Per View](https://github.com/JordanRad/landing-pages/blob/main/ReadMe-PPV.png?raw=true)
 
+
+## Pricing Page
+3 subscription plans pricing page example:
+
+![Pricing Page](https://github.com/JordanRad/landing-pages/blob/main/ReadMe-Pricingpng.png?raw=true)
